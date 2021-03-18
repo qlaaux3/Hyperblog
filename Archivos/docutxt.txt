@@ -1,8 +1,6 @@
-Esto es un título
+Esto es un texto plano
 
-Esto es un título centrado
-
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+No tiene nada de especial
 
 
-Y esto de arriba es la foto de unas Suricatas.
+Y eso lo hace especial :3
